@@ -1,20 +1,19 @@
+
 # Luca Ribeiro Albuquerque
 
 ## **Interesses**
-- Desenvolvimento Web Full-Stack
-- Automação de processos
-- Tecnologias inovadoras
+- Desenvolvimento de APIs REST
+- Integração com IA
 
 ## **Ferramentas que utilizo**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-Tests-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## **Contato**
 - LinkedIn: [linkedin.com/in/luca-ribeiro-albuquerque](https://www.linkedin.com/in/luca-ribeiro-albuquerque-33732533a/)
-- Email: albuquerqueluca2007@gmail.com / lra3@cesar.school
+- Email: albuquerqueluca2007@gmail.com
